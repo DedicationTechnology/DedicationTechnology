@@ -3,6 +3,10 @@
 - Hello, I'm DedicationYu 👋
 - ![DedicationTechnology](https://komarev.com/ghpvc/?username=DedicationTechnology)  
 
+<div align="left">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DedicationTechnology" />
+</div>
+
 ![Metrics](https://metrics.lecoq.io/DedicationTechnology?template=classic&config.timezone=Asia%2FShanghai)
 
 <!-- waka-box start -->
@@ -15,6 +19,13 @@
 - 💬 Ask a question, get an answer!
 - 📫  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dedicationyu@gmail.com)](mailto:dedicationyu@gmail.com)
 - ⚡ [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/Intellij-Idea-blue?style=flat-square&logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/idea/) [![](https://img.shields.io/badge/Linux-Ubuntu-2376bc?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/) [![](https://img.shields.io/badge/IDE-PyCharm-blue?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/pycharm/) [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/) [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/) [![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/) [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)  [![](https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=white)](https://redis.io/) 
+
+## Social
+
+<div align="left">
+    <img src="https://stats.justsong.cn/api/csdn?id=IT_SoftEngineer&theme=dark">
+    <img src="https://stats.justsong.cn/api/github?username=DedicationTechnology&theme=dark">
+</div>
 
 ## Some Statistics About Me
 
