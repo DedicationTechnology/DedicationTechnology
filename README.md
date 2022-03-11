@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 - Hello, I'm DedicationYu 👋
-- ![DedicationTechnology](https://komarev.com/ghpvc/?username=DedicationTechnology)  ![DedicationTechnology](https://visitor-badge.glitch.me/badge?page_id=DedicationTechnology.profile)
+- ![DedicationTechnology](https://komarev.com/ghpvc/?username=DedicationTechnology)  
 
+![Metrics](https://metrics.lecoq.io/DedicationTechnology?template=classic&config.timezone=Asia%2FShanghai)
 ## Tags
 
 - 🔭 Unemployed civilian.
