@@ -4,6 +4,10 @@
 - ![DedicationTechnology](https://komarev.com/ghpvc/?username=DedicationTechnology)  
 
 ![Metrics](https://metrics.lecoq.io/DedicationTechnology?template=classic&config.timezone=Asia%2FShanghai)
+
+<!-- waka-box start -->
+<!-- waka-box end -->
+
 ## Tags
 
 - 🔭 Unemployed civilian.
@@ -19,5 +23,4 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=DedicationTechnology&theme=redical)
 
-<!-- waka-box start -->
-<!-- waka-box end -->
+
