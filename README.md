@@ -7,7 +7,9 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DedicationTechnology" />
 </div>
 
-![Metrics](https://metrics.lecoq.io/DedicationTechnology?template=classic&config.timezone=Asia%2FShanghai)
+<div align="left">
+    <img src="/github-metrics.svg" alt="Metrics" width="500">
+</div>
 
 <!-- waka-box start -->
 <!-- waka-box end -->
