@@ -11,8 +11,8 @@
     <img src="/github-metrics.svg" alt="Metrics" width="500">
 </div>
 
-<!-- waka-box start -->
-<!-- waka-box end -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Tags
 
