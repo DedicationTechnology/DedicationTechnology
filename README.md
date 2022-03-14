@@ -13,6 +13,11 @@
 
 ## Coding status last week
 <!--START_SECTION:waka-->
+
+```text
+Other    19 hrs 30 mins  ████████████████████████▒   96.92 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Tags
